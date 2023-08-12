@@ -1,0 +1,86 @@
+2023/08/12 16:20:51 cravat               /home/bnetbutter/miniconda3/bin/oc run -a civic_molecular_profile -l hg38 ./civic_molecular_profile/test/test.vcf
+2023/08/12 16:20:51 cravat               started: Sat Aug 12 16:20:51 2023
+2023/08/12 16:20:51 cravat               input files: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_molecular_profile/test/test.vcf
+2023/08/12 16:20:51 cravat               input assembly: hg38
+2023/08/12 16:20:51 cravat               version: open-cravat 2.4.1 /home/bnetbutter/Documents/open-cravat/cravat
+2023/08/12 16:20:51 cravat               version: civic_molecular_profile 0.0.1 /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_molecular_profile
+2023/08/12 16:20:51 cravat               version: hg38 1.11.0 /home/bnetbutter/Documents/open-cravat/cravat/modules/mappers/hg38
+2023/08/12 16:20:51 cravat.converter     started: Sat Aug 12 16:20:51 2023
+2023/08/12 16:20:51 cravat.converter     Input file(s): /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_molecular_profile/test/test.vcf
+2023/08/12 16:20:51 cravat.converter     input format: vcf
+2023/08/12 16:20:52 cravat.converter     error lines: 0
+2023/08/12 16:20:52 cravat.converter     finished: Sat Aug 12 16:20:52 2023
+2023/08/12 16:20:52 cravat.converter     num input lines: 7
+2023/08/12 16:20:52 cravat.converter     runtime: 0.083
+2023/08/12 16:20:52 cravat               num_workers: 7
+2023/08/12 16:20:52 cravat               input line chunksize=1 total number of input lines=6 number of chunks=7
+2023/08/12 16:20:52 cravat.mapper        input file: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_molecular_profile/test/test.vcf.crv
+2023/08/12 16:20:52 cravat.mapper        input file: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_molecular_profile/test/test.vcf.crv
+2023/08/12 16:20:52 cravat.mapper        input file: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_molecular_profile/test/test.vcf.crv
+2023/08/12 16:20:52 cravat.mapper        input file: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_molecular_profile/test/test.vcf.crv
+2023/08/12 16:20:52 cravat.mapper        input file: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_molecular_profile/test/test.vcf.crv
+2023/08/12 16:20:52 cravat.mapper        input file: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_molecular_profile/test/test.vcf.crv
+2023/08/12 16:20:52 cravat.mapper        input file: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_molecular_profile/test/test.vcf.crv
+2023/08/12 16:20:54 cravat.mapper        mapper database: /home/bnetbutter/Documents/open-cravat/cravat/modules/mappers/hg38/data/gene_33_10000.sqlite
+2023/08/12 16:20:54 cravat.mapper        mapper database: /home/bnetbutter/Documents/open-cravat/cravat/modules/mappers/hg38/data/gene_33_10000.sqlite
+2023/08/12 16:20:54 cravat.mapper        mapper database: /home/bnetbutter/Documents/open-cravat/cravat/modules/mappers/hg38/data/gene_33_10000.sqlite
+2023/08/12 16:20:54 cravat.mapper        mapper database: /home/bnetbutter/Documents/open-cravat/cravat/modules/mappers/hg38/data/gene_33_10000.sqlite
+2023/08/12 16:20:54 cravat.mapper        mapper database: /home/bnetbutter/Documents/open-cravat/cravat/modules/mappers/hg38/data/gene_33_10000.sqlite
+2023/08/12 16:20:54 cravat.mapper        mapper database: /home/bnetbutter/Documents/open-cravat/cravat/modules/mappers/hg38/data/gene_33_10000.sqlite
+2023/08/12 16:20:54 cravat.mapper        mapper database: /home/bnetbutter/Documents/open-cravat/cravat/modules/mappers/hg38/data/gene_33_10000.sqlite
+2023/08/12 16:20:55 cravat.mapper        started: Sat Aug 12 16:20:55 2023 | 0
+2023/08/12 16:20:55 cravat.mapper        started: Sat Aug 12 16:20:55 2023 | 1523
+2023/08/12 16:20:55 cravat.mapper        started: Sat Aug 12 16:20:55 2023 | 1544
+2023/08/12 16:20:55 cravat.mapper        finished: Sat Aug 12 16:20:55 2023 | 0
+2023/08/12 16:20:55 cravat.mapper        runtime:  0.022
+2023/08/12 16:20:55 cravat.mapper        finished: Sat Aug 12 16:20:55 2023 | 1544
+2023/08/12 16:20:55 cravat.mapper        runtime:  0.009
+2023/08/12 16:20:55 cravat.mapper        started: Sat Aug 12 16:20:55 2023 | 1609
+2023/08/12 16:20:55 cravat.mapper        finished: Sat Aug 12 16:20:55 2023 | 1523
+2023/08/12 16:20:55 cravat.mapper        runtime:  0.056
+2023/08/12 16:20:55 cravat.mapper        finished: Sat Aug 12 16:20:55 2023 | 1609
+2023/08/12 16:20:55 cravat.mapper        runtime:  0.043
+2023/08/12 16:20:55 cravat.mapper        started: Sat Aug 12 16:20:55 2023 | 1631
+2023/08/12 16:20:56 cravat.mapper        started: Sat Aug 12 16:20:56 2023 | 1565
+2023/08/12 16:20:56 cravat.mapper        finished: Sat Aug 12 16:20:56 2023 | 1565
+2023/08/12 16:20:56 cravat.mapper        runtime:  0.055
+2023/08/12 16:20:56 cravat.mapper        finished: Sat Aug 12 16:20:56 2023 | 1631
+2023/08/12 16:20:56 cravat.mapper        runtime:  0.136
+2023/08/12 16:20:56 cravat.mapper        started: Sat Aug 12 16:20:56 2023 | 1587
+2023/08/12 16:20:56 cravat.mapper        finished: Sat Aug 12 16:20:56 2023 | 1587
+2023/08/12 16:20:56 cravat.mapper        runtime:  0.003
+2023/08/12 16:20:56 cravat               num_workers: 7
+2023/08/12 16:20:56 cravat.civic_molecular_profile started: Sat Aug 12 16:20:56 2023
+2023/08/12 16:20:56 cravat.civic_molecular_profile finished: Sat Aug 12 16:20:56 2023
+2023/08/12 16:20:56 cravat.civic_molecular_profile runtime: 0.009s
+2023/08/12 16:20:56 cravat.civic_molecular_profile started: Sat Aug 12 16:20:56 2023
+2023/08/12 16:20:56 cravat.civic_molecular_profile finished: Sat Aug 12 16:20:56 2023
+2023/08/12 16:20:56 cravat.civic_molecular_profile runtime: 0.021s
+2023/08/12 16:20:57 cravat.aggregator    level: variant
+2023/08/12 16:20:57 cravat.aggregator    input directory: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_molecular_profile/test
+2023/08/12 16:20:57 cravat.aggregator    started: Sat Aug 12 16:20:57 2023
+2023/08/12 16:20:57 cravat.aggregator    finished: Sat Aug 12 16:20:57 2023
+2023/08/12 16:20:57 cravat.aggregator    runtime: 0.004
+2023/08/12 16:20:57 cravat.aggregator    level: gene
+2023/08/12 16:20:57 cravat.aggregator    input directory: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_molecular_profile/test
+2023/08/12 16:20:57 cravat.aggregator    started: Sat Aug 12 16:20:57 2023
+2023/08/12 16:20:57 cravat.aggregator    finished: Sat Aug 12 16:20:57 2023
+2023/08/12 16:20:57 cravat.aggregator    runtime: 0.002
+2023/08/12 16:20:57 cravat.aggregator    level: sample
+2023/08/12 16:20:57 cravat.aggregator    input directory: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_molecular_profile/test
+2023/08/12 16:20:57 cravat.aggregator    started: Sat Aug 12 16:20:57 2023
+2023/08/12 16:20:57 cravat.aggregator    finished: Sat Aug 12 16:20:57 2023
+2023/08/12 16:20:57 cravat.aggregator    runtime: 0.002
+2023/08/12 16:20:57 cravat.aggregator    level: mapping
+2023/08/12 16:20:57 cravat.aggregator    input directory: /home/bnetbutter/Documents/open-cravat/cravat/modules/annotators/civic_molecular_profile/test
+2023/08/12 16:20:57 cravat.aggregator    started: Sat Aug 12 16:20:57 2023
+2023/08/12 16:20:57 cravat.aggregator    finished: Sat Aug 12 16:20:57 2023
+2023/08/12 16:20:57 cravat.aggregator    runtime: 0.002
+2023/08/12 16:20:58 cravat.tagsampler    started: Sat Aug 12 16:20:58 2023
+2023/08/12 16:20:58 cravat.tagsampler    finished: Sat Aug 12 16:20:58 2023
+2023/08/12 16:20:58 cravat.tagsampler    runtime: 0.032
+2023/08/12 16:20:58 cravat.vcfinfo       started: Sat Aug 12 16:20:58 2023
+2023/08/12 16:20:58 cravat.vcfinfo       finished: Sat Aug 12 16:20:58 2023
+2023/08/12 16:20:58 cravat.vcfinfo       runtime: 0.029
+2023/08/12 16:20:58 cravat               finished: Sat Aug 12 16:20:58 2023
+2023/08/12 16:20:58 cravat               runtime: 6.601s

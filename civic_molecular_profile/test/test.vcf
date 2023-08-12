@@ -1,0 +1,14 @@
+##fileformat=VCFv4.2
+##INFO=<ID=MP,Number=1,Type=Integer,Description="Molecular Profile ID">
+##INFO=<ID=VID,Number=.,Type=Integer,Description="Variant IDs">
+##INFO=<ID=MPS,Number=1,Type=Float,Description="Molecular Profile Score">
+##INFO=<ID=NAE,Number=1,Type=Integer,Description="Number of Accepted EIDs">
+##INFO=<ID=NSE,Number=1,Type=Integer,Description="Number of Submitted EIDs">
+#CHROM  POS     ID      REF     ALT     QUAL    FILTER  INFO
+7       140453136       .       A       T       .       .       MP=12;VID=12;MPS=1353.5;NAE=93;NSE=91
+7       55249071        .       C       T       .       .       MP=34;VID=34;MPS=406.25;NAE=31;NSE=9
+7       55259515        .       T       G       .       .       MP=33;VID=33;MPS=379.0;NAE=37;NSE=3
+20      57428713        .       T       C       .       .       MP=851;VID=877;MPS=165.0;NAE=9;NSE=0
+12      25398284        .       C       T       .       .       MP=79;VID=79;MPS=162.0;NAE=22;NSE=37
+7       55259515        .       T       G       .       .       MP=4432;VID=33,133;MPS=140.0;NAE=3;NSE=1
+12      25398285        .       C       A       .       .       MP=78;VID=78;MPS=136.0;NAE=15;NSE=39

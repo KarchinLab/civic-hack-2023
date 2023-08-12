@@ -41,9 +41,37 @@ class CravatAnnotator(BaseAnnotator):
         and absent column names will be filled with None. Check your output
         carefully to ensure that your data is ending up where you intend.
         """
+        chrom, pos, ref, alt = input_data["chrom"], input_data["pos"], input_data["ref_base"], input_data["alt_base"]
+        chrom = chrom.replace("chr", "")
+
+        query = """
+        SELECT mp_id, variant_ids, molecular_profile_score, num_acc_eids, num_sub_eids
+        FROM variants
+        WHERE chrom = ? AND start = ? AND ref = ? AND alt = ?
+        """
+
+
+
+        # Use the variables chrom, pos, ref, and alt to fetch the data
+        self.cursor.execute(query, (chrom, pos, ref, alt))
+
+        # Fetch the results
+        results = self.cursor.fetchall()
+
         out = {}
-        out['placeholder_annotation'] = 'placeholder value'
-        return out
+
+        # Process the results as needed
+        for result in results:
+            mp_id, variant_ids, molecular_profile_score, num_acc_eids, num_sub_eids = result
+            print(mp_id, variant_ids, molecular_profile_score, num_acc_eids, num_sub_eids)
+
+            out['mp_id'] = mp_id
+            out['variant_ids'] = variant_ids
+            out['molecular_profile_score'] = molecular_profile_score
+            out['num_acc_eids'] = num_acc_eids
+            out['num_sub_eids'] = num_sub_eids
+        
+            return out
     
     def cleanup(self):
         """
