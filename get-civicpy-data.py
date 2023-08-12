@@ -1,4 +1,5 @@
 from civicpy import civic
+import sys
 
 annotated_mps = list()
 molecular_profiles = civic.get_all_molecular_profiles(include_status=["accepted", "submitted"])
@@ -15,18 +16,18 @@ for n, mp in enumerate(molecular_profiles):
     is_and = False
     # print(gq_mp)
     for parsed_name in mp.parsed_name:
-        continue
         if parsed_name.type == 'molecular_profile_text_segment':
-            print(mp.id, gq_mp)
             if parsed_name.text == 'OR':
                 is_and = False
             elif parsed_name.text == 'AND':
                 is_and = True
             else:
-                print('Unrecognized token text: ' + token['text'])
+                print('Unrecognized token text: ' + parsed_name.text, file=sys.stderr)
             break
-    if is_and == 'AND':
+    if is_and:
         continue
+    
+    
     for variant in mp.variants:
         chrom = None
         start = None
@@ -46,7 +47,7 @@ for n, mp in enumerate(molecular_profiles):
             "variant_ids": mp.variant_ids,
             "molecular_profile_score": mp.molecular_profile_score,
             "num_acc_eids": ev_counts["accepted"],
-            "num_sub_eids": ev_counts["submitted"]
+            "num_sub_eids": ev_counts["submitted"],
         })
-print(len(annotated_mps))
-annotated_mps[0]
+import json
+print(json.dumps(annotated_mps, indent=4))
