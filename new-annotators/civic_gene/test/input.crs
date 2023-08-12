@@ -1,0 +1,9 @@
+#column={"index": 0, "name": "uid", "title": "UID", "type": "int", "categories": [], "width": 70, "desc": null, "hidden": false, "category": null, "filterable": true, "link_format": null, "genesummary": false, "table": false}
+#column={"index": 1, "name": "sample_id", "title": "Sample", "type": "string", "categories": [], "width": 90, "desc": null, "hidden": false, "category": null, "filterable": true, "link_format": null, "genesummary": false, "table": false}
+#index=uid
+#index=sample_id
+#index=sample_id,uid
+#UID	Sample
+1	s3
+2	s4
+3	s5
