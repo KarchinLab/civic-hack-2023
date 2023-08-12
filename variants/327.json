@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 6104,
+                    "name": "WEE1",
+                    "link": "/genes/6104"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 331,
+                    "name": "RS3910384",
+                    "link": "/variants/331",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "327"
+}

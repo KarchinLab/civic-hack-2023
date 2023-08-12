@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 1290,
+                    "name": "CTNNB1",
+                    "link": "/genes/1290"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 1285,
+                    "name": "T41A",
+                    "link": "/variants/1285",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "1259"
+}

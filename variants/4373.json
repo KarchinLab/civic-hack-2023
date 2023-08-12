@@ -1,0 +1,39 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 4,
+                    "name": "ABL1",
+                    "link": "/genes/4"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 1,
+                    "name": "BCR::ABL",
+                    "link": "/variants/1",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "AND"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 4,
+                    "name": "ABL1",
+                    "link": "/genes/4"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 2,
+                    "name": "T315I",
+                    "link": "/variants/2",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "4373"
+}

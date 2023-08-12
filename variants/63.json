@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 27,
+                    "name": "IDH2",
+                    "link": "/genes/27"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 63,
+                    "name": "R172K",
+                    "link": "/variants/63",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "63"
+}

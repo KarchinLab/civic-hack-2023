@@ -1,0 +1,56 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 19,
+                    "name": "EGFR",
+                    "link": "/genes/19"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 562,
+                    "name": "S768I",
+                    "link": "/variants/562",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "OR"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 19,
+                    "name": "EGFR",
+                    "link": "/genes/19"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 999,
+                    "name": "G719A",
+                    "link": "/variants/999",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "OR"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 19,
+                    "name": "EGFR",
+                    "link": "/genes/19"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 1020,
+                    "name": "L861Q",
+                    "link": "/variants/1020",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "4499"
+}

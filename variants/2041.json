@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 1810,
+                    "name": "FANCA",
+                    "link": "/genes/1810"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 2165,
+                    "name": "S1088F",
+                    "link": "/variants/2165",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "2041"
+}

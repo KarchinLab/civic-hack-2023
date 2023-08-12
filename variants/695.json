@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 46,
+                    "name": "TSC1",
+                    "link": "/genes/46"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 714,
+                    "name": "R1062W",
+                    "link": "/variants/714",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "695"
+}

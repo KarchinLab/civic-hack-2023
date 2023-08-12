@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 15344,
+                    "name": "PREX2",
+                    "link": "/genes/15344"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 2364,
+                    "name": "R172I",
+                    "link": "/variants/2364",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "2237"
+}

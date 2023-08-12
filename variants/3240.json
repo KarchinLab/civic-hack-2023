@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 52,
+                    "name": "MET",
+                    "link": "/genes/52"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 3372,
+                    "name": "M1250T",
+                    "link": "/variants/3372",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "3240"
+}

@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 72,
+                    "name": "FOXL2",
+                    "link": "/genes/72"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 198,
+                    "name": "C134W",
+                    "link": "/variants/198",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "198"
+}

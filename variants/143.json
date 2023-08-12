@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 51,
+                    "name": "DDR2",
+                    "link": "/genes/51"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 143,
+                    "name": "I638F",
+                    "link": "/variants/143",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "143"
+}

@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 3742,
+                    "name": "MYD88",
+                    "link": "/genes/3742"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 424,
+                    "name": "L265P",
+                    "link": "/variants/424",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "420"
+}

@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 39,
+                    "name": "PML",
+                    "link": "/genes/39"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 462,
+                    "name": "PML::RARA A216V",
+                    "link": "/variants/462",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "458"
+}

@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 4371,
+                    "name": "PMS2",
+                    "link": "/genes/4371"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 768,
+                    "name": "R315*",
+                    "link": "/variants/768",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "749"
+}

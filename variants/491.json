@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 3465,
+                    "name": "MDM2",
+                    "link": "/genes/3465"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 495,
+                    "name": "SNP309",
+                    "link": "/variants/495",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "491"
+}

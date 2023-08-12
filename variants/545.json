@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 1,
+                    "name": "ALK",
+                    "link": "/genes/1"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 549,
+                    "name": "F1245C",
+                    "link": "/variants/549",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "545"
+}

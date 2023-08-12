@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 1526,
+                    "name": "DPYD",
+                    "link": "/genes/1526"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 737,
+                    "name": "DPYD*2A HOMOZYGOSITY",
+                    "link": "/variants/737",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "718"
+}

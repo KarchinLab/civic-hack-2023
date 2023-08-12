@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 7451,
+                    "name": "ABCG2",
+                    "link": "/genes/7451"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 260,
+                    "name": "Q141K",
+                    "link": "/variants/260",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "256"
+}

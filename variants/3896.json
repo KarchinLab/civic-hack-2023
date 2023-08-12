@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 23,
+                    "name": "FGFR3",
+                    "link": "/genes/23"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 4028,
+                    "name": "N540D",
+                    "link": "/variants/4028",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "3896"
+}

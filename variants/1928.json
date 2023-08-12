@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 9533,
+                    "name": "DICER1",
+                    "link": "/genes/9533"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 2052,
+                    "name": "E1813Q",
+                    "link": "/variants/2052",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "1928"
+}

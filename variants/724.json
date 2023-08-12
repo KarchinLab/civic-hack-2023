@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 3532,
+                    "name": "MLH1",
+                    "link": "/genes/3532"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 743,
+                    "name": "T117M",
+                    "link": "/variants/743",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "724"
+}

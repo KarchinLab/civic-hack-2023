@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 31,
+                    "name": "MAP2K1",
+                    "link": "/genes/31"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 627,
+                    "name": "C121S",
+                    "link": "/variants/627",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "623"
+}

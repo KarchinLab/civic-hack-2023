@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 3091,
+                    "name": "JAK3",
+                    "link": "/genes/3091"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 1290,
+                    "name": "S61C",
+                    "link": "/variants/1290",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "1264"
+}

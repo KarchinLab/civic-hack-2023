@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 13,
+                    "name": "CDK4",
+                    "link": "/genes/13"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 556,
+                    "name": "R24C",
+                    "link": "/variants/556",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "552"
+}

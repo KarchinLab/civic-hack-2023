@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 7954,
+                    "name": "SH2B3",
+                    "link": "/genes/7954"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 699,
+                    "name": "RS3184504",
+                    "link": "/variants/699",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "680"
+}

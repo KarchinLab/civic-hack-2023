@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 24,
+                    "name": "FLT3",
+                    "link": "/genes/24"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 1397,
+                    "name": "D835E",
+                    "link": "/variants/1397",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "1305"
+}

@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 779,
+                    "name": "CBLB",
+                    "link": "/genes/779"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 643,
+                    "name": "RS2305035",
+                    "link": "/variants/643",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "639"
+}

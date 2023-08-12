@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 52,
+                    "name": "MET",
+                    "link": "/genes/52"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 4377,
+                    "name": "Splice Site (c.3028+2T>C)",
+                    "link": "/variants/4377",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "4291"
+}

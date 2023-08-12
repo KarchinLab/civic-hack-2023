@@ -1,0 +1,64 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 5,
+                    "name": "BRAF",
+                    "link": "/genes/5"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 1269,
+                    "name": "Amplification",
+                    "link": "/variants/1269",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "AND"
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "("
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 5,
+                    "name": "BRAF",
+                    "link": "/genes/5"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 12,
+                    "name": "V600E",
+                    "link": "/variants/12",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "OR"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 5,
+                    "name": "BRAF",
+                    "link": "/genes/5"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 563,
+                    "name": "V600K",
+                    "link": "/variants/563",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": ")"
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "4174"
+}

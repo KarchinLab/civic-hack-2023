@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 4692,
+                    "name": "PTPRD",
+                    "link": "/genes/4692"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 792,
+                    "name": "V253I",
+                    "link": "/variants/792",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "770"
+}

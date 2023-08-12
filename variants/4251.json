@@ -1,0 +1,56 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 5,
+                    "name": "BRAF",
+                    "link": "/genes/5"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 12,
+                    "name": "V600E",
+                    "link": "/variants/12",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "AND"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 19,
+                    "name": "EGFR",
+                    "link": "/genes/19"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 33,
+                    "name": "L858R",
+                    "link": "/variants/33",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "AND"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 19,
+                    "name": "EGFR",
+                    "link": "/genes/19"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 34,
+                    "name": "T790M",
+                    "link": "/variants/34",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "4251"
+}

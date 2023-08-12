@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 12271,
+                    "name": "ERRFI1",
+                    "link": "/genes/12271"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 691,
+                    "name": "E384*",
+                    "link": "/variants/691",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "672"
+}

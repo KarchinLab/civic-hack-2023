@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 50,
+                    "name": "NOTCH1",
+                    "link": "/genes/50"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 137,
+                    "name": "V2444FS",
+                    "link": "/variants/137",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "137"
+}

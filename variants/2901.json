@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 3777,
+                    "name": "MYOD1",
+                    "link": "/genes/3777"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 3032,
+                    "name": "L122R",
+                    "link": "/variants/3032",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "2901"
+}

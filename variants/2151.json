@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 154,
+                    "name": "ACVR1",
+                    "link": "/genes/154"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 2275,
+                    "name": "R258G",
+                    "link": "/variants/2275",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "2151"
+}

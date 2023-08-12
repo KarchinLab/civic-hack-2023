@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 1769,
+                    "name": "ETV6",
+                    "link": "/genes/1769"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 812,
+                    "name": "R369Q",
+                    "link": "/variants/812",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "790"
+}

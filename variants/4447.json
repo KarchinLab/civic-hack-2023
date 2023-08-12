@@ -1,0 +1,39 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 42,
+                    "name": "RET",
+                    "link": "/genes/42"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 113,
+                    "name": "M918T",
+                    "link": "/variants/113",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "AND"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 42,
+                    "name": "RET",
+                    "link": "/genes/42"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 2568,
+                    "name": "V804M",
+                    "link": "/variants/2568",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "4447"
+}

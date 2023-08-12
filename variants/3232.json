@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 63,
+                    "name": "EZH2",
+                    "link": "/genes/63"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 3364,
+                    "name": "Y646H",
+                    "link": "/variants/3364",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "3232"
+}

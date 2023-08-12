@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 8450,
+                    "name": "SLCO1B1",
+                    "link": "/genes/8450"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 778,
+                    "name": "N130D",
+                    "link": "/variants/778",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "759"
+}

@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 1741,
+                    "name": "ERCC5",
+                    "link": "/genes/1741"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 255,
+                    "name": "RS751402",
+                    "link": "/variants/255",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "251"
+}

@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 36,
+                    "name": "NRAS",
+                    "link": "/genes/36"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 1175,
+                    "name": "G12V",
+                    "link": "/variants/1175",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "1149"
+}

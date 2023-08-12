@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 42,
+                    "name": "RET",
+                    "link": "/genes/42"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 112,
+                    "name": "C634W",
+                    "link": "/variants/112",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "112"
+}

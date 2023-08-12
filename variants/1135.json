@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 69,
+                    "name": "ATM",
+                    "link": "/genes/69"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 1161,
+                    "name": "R2034P",
+                    "link": "/variants/1161",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "1135"
+}

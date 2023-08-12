@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 10024,
+                    "name": "SETBP1",
+                    "link": "/genes/10024"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 351,
+                    "name": "G870S",
+                    "link": "/variants/351",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "347"
+}

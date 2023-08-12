@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 37,
+                    "name": "PIK3CA",
+                    "link": "/genes/37"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 3001,
+                    "name": "V955I",
+                    "link": "/variants/3001",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "2870"
+}

@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 58,
+                    "name": "VHL",
+                    "link": "/genes/58"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 1975,
+                    "name": "R167fsX4 (c.499_504delinsT)",
+                    "link": "/variants/1975",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "1851"
+}

@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 1736,
+                    "name": "ERCC2",
+                    "link": "/genes/1736"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 264,
+                    "name": "K751Q",
+                    "link": "/variants/264",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "260"
+}

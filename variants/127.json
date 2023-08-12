@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 48,
+                    "name": "U2AF1",
+                    "link": "/genes/48"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 127,
+                    "name": "Q157P/R",
+                    "link": "/variants/127",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "127"
+}

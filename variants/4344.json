@@ -1,0 +1,124 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 63,
+                    "name": "EZH2",
+                    "link": "/genes/63"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 2666,
+                    "name": "Y646S",
+                    "link": "/variants/2666",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "OR"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 63,
+                    "name": "EZH2",
+                    "link": "/genes/63"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 2989,
+                    "name": "Y646F",
+                    "link": "/variants/2989",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "OR"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 63,
+                    "name": "EZH2",
+                    "link": "/genes/63"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 3364,
+                    "name": "Y646H",
+                    "link": "/variants/3364",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "OR"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 63,
+                    "name": "EZH2",
+                    "link": "/genes/63"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 3607,
+                    "name": "Y646C",
+                    "link": "/variants/3607",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "OR"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 63,
+                    "name": "EZH2",
+                    "link": "/genes/63"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 4090,
+                    "name": "Y646N",
+                    "link": "/variants/4090",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "OR"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 63,
+                    "name": "EZH2",
+                    "link": "/genes/63"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 4414,
+                    "name": "A692V",
+                    "link": "/variants/4414",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "OR"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 63,
+                    "name": "EZH2",
+                    "link": "/genes/63"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 4415,
+                    "name": "A682G",
+                    "link": "/variants/4415",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "4344"
+}

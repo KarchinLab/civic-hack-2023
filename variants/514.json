@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 4941,
+                    "name": "ROS1",
+                    "link": "/genes/4941"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 518,
+                    "name": "CD74::ROS1 G2101A",
+                    "link": "/variants/518",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "514"
+}

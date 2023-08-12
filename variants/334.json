@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 34,
+                    "name": "MGMT",
+                    "link": "/genes/34"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 338,
+                    "name": "RS16906252",
+                    "link": "/variants/338",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "334"
+}

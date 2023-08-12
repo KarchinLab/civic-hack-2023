@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 41,
+                    "name": "PTEN",
+                    "link": "/genes/41"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 110,
+                    "name": "R233*",
+                    "link": "/variants/110",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "110"
+}

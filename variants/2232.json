@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 4,
+                    "name": "ABL1",
+                    "link": "/genes/4"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 2359,
+                    "name": "BCR::ABL F317C",
+                    "link": "/variants/2359",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "2232"
+}

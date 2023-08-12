@@ -1,0 +1,56 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 30,
+                    "name": "KRAS",
+                    "link": "/genes/30"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 530,
+                    "name": "G12R",
+                    "link": "/variants/530",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "AND"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 2189,
+                    "name": "GATA3",
+                    "link": "/genes/2189"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 4506,
+                    "name": "Mutation",
+                    "link": "/variants/4506",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "AND"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 2319,
+                    "name": "GNAS",
+                    "link": "/genes/2319"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 4507,
+                    "name": "Mutation",
+                    "link": "/variants/4507",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "4495"
+}

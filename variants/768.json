@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 8950,
+                    "name": "CHEK2",
+                    "link": "/genes/8950"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 787,
+                    "name": "I157T",
+                    "link": "/variants/787",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "768"
+}

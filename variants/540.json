@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 2073,
+                    "name": "MTOR",
+                    "link": "/genes/2073"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 544,
+                    "name": "E1799K",
+                    "link": "/variants/544",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "540"
+}

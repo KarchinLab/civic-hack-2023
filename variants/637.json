@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 14,
+                    "name": "CDKN2A",
+                    "link": "/genes/14"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 641,
+                    "name": "RS3814960",
+                    "link": "/variants/641",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "637"
+}

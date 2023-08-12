@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 4546,
+                    "name": "MAP2K7",
+                    "link": "/genes/4546"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 566,
+                    "name": "E116K",
+                    "link": "/variants/566",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "562"
+}

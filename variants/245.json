@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 6144,
+                    "name": "XRCC1",
+                    "link": "/genes/6144"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 249,
+                    "name": "R194W",
+                    "link": "/variants/249",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "245"
+}

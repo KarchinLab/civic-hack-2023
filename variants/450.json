@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 19,
+                    "name": "EGFR",
+                    "link": "/genes/19"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 454,
+                    "name": "R451C",
+                    "link": "/variants/454",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "450"
+}

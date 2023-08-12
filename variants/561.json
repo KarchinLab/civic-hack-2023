@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 44,
+                    "name": "SF3B1",
+                    "link": "/genes/44"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 565,
+                    "name": "K700E",
+                    "link": "/variants/565",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "561"
+}

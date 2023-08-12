@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 3153,
+                    "name": "KDR",
+                    "link": "/genes/3153"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 468,
+                    "name": "D717V",
+                    "link": "/variants/468",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "464"
+}

@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 28,
+                    "name": "JAK2",
+                    "link": "/genes/28"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 1681,
+                    "name": "Splice Site (c.1641+2T>G)",
+                    "link": "/variants/1681",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "1589"
+}

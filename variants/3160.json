@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 3867,
+                    "name": "NF1",
+                    "link": "/genes/3867"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 3292,
+                    "name": "R1276Q",
+                    "link": "/variants/3292",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "3160"
+}

@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 59,
+                    "name": "BCL2",
+                    "link": "/genes/59"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 3031,
+                    "name": "L119V",
+                    "link": "/variants/3031",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "2900"
+}

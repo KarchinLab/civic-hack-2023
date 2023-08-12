@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 9189,
+                    "name": "NT5C2",
+                    "link": "/genes/9189"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 238,
+                    "name": "R367Q",
+                    "link": "/variants/238",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "234"
+}

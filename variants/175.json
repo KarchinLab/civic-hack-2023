@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 67,
+                    "name": "AR",
+                    "link": "/genes/67"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 175,
+                    "name": "F877L",
+                    "link": "/variants/175",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "175"
+}
