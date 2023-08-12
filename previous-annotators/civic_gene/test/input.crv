@@ -1,0 +1,12 @@
+#column={"index": 0, "name": "uid", "title": "UID", "type": "int", "categories": [], "width": 60, "desc": null, "hidden": true, "category": null, "filterable": false, "link_format": null, "genesummary": false, "table": false}
+#column={"index": 1, "name": "chrom", "title": "Chrom", "type": "string", "categories": [], "width": 50, "desc": null, "hidden": false, "category": "single", "filterable": true, "link_format": null, "genesummary": false, "table": false}
+#column={"index": 2, "name": "pos", "title": "Position", "type": "int", "categories": [], "width": 80, "desc": null, "hidden": false, "category": null, "filterable": true, "link_format": null, "genesummary": false, "table": false}
+#column={"index": 3, "name": "ref_base", "title": "Ref Base", "type": "string", "categories": [], "width": 50, "desc": null, "hidden": false, "category": null, "filterable": false, "link_format": null, "genesummary": false, "table": false}
+#column={"index": 4, "name": "alt_base", "title": "Alt Base", "type": "string", "categories": [], "width": 50, "desc": null, "hidden": false, "category": null, "filterable": false, "link_format": null, "genesummary": false, "table": false}
+#column={"index": 5, "name": "note_variant", "title": "Variant Note", "type": "string", "categories": [], "width": 50, "desc": null, "hidden": false, "category": null, "filterable": true, "link_format": null, "genesummary": false, "table": false}
+#index=uid
+#input_format=cravat
+#UID	Chrom	Position	Ref Base	Alt Base	Variant Note
+1	chr7	140753336	A	T	
+2	chr10	87957915	C	T	
+3	chr3	179234297	A	G	

@@ -1,0 +1,65 @@
+datasource: 2023.08.01
+description: Provides descriptions and linkouts to CIViC
+developer:
+  citation: Griffith, M., Spies, N.C., Krysiak, K., et al. (2017). CIViC is a community
+    knowledgebase for expert crowdsourcing the clinical interpretation of variants
+    in cancer. Nature Genetics, 49(2):170-174.
+  email: support@cravat.us
+  name: The McDonnell Genome Institute at Washington University School of Medicine
+  organization: The McDonnell Genome Institute at Washington University School of
+    Medicine
+  website: https://civicdb.org
+level: variant
+output_columns:
+- name: diseases
+  title: Diseases
+  type: string
+  width: 75
+  hidden: false
+- name: id
+  title: ID
+  type: string
+  filterable: false
+  link_format: https://civicdb.org/links/variant/${.*}
+- hidden: true
+  name: molecular_profile_score
+  title: Variant Evidence Score
+  width: 60
+  type: float
+  filterable: false
+  desc: Represents the accumulation of evidence
+- hidden: true
+  name: description
+  title: Description
+  type: string
+  filterable: false
+smartfilters:
+- name: hasdata
+  title: CIVIC
+  description: Only include variants with data from CIVIC
+  selector:
+    type: empty
+  filter:
+    column: civic__id
+    test: hasData
+tags:
+- variants
+- clinical relevance
+- cancer
+- literature
+title: CIViC
+type: annotator
+version: 2023.08.01
+requires_opencravat: '>=1.4.0'
+requires:
+- wgcivic
+release_note:
+  2023.08.01: Monthly data update
+  2023.07.01: Monthly data update
+  2023.06.01: Monthly data update
+  2023.04.01: Update CIViC annotator to use new GraphQL API. The annotator will now be updated monthly based on the monthly variant snapshot and supplemental data from the GraphQL API. The version number going forward will be the date when the data was gathered.
+  1.0.18: YML change for clinical_a_score data type
+  1.0.17: YML change for datasource tag
+  1.0.16: Fix for parsing error. Actionability changed to Evidence in title
+  1.0.15: Add smartfilter
+  1.0.14: Fail more gracefully when data can't be loaded

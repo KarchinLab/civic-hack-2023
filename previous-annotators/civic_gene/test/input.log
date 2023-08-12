@@ -1,0 +1,110 @@
+2023/06/07 12:02:50 cravat               /home/ska/.local/bin/oc run input -t text -a civic_gene -l hg38
+2023/06/07 12:02:50 cravat               started: Wed Jun  7 12:02:50 2023
+2023/06/07 12:02:50 cravat               input files: /home/ska/source/open-cravat-modules-karchinlab/annotators/civic_gene/test/input
+2023/06/07 12:02:50 cravat               input assembly: hg38
+2023/06/07 12:02:50 cravat               version: open-cravat 2.3.0 /home/ska/source/open-cravat/cravat
+2023/06/07 12:02:50 cravat               version: civic_gene 2023.04.01 /home/ska/source/open-cravat-modules-karchinlab/annotators/civic_gene
+2023/06/07 12:02:50 cravat               version: hg38 1.10.4 /home/ska/source/open-cravat-modules-karchinlab/mappers/hg38
+2023/06/07 12:02:50 cravat               version: textreporter 2.1.0 /home/ska/source/open-cravat-modules-karchinlab/reporters/textreporter
+2023/06/07 12:02:50 cravat.converter     started: Wed Jun  7 12:02:50 2023
+2023/06/07 12:02:50 cravat.converter     Input file(s): /home/ska/source/open-cravat-modules-karchinlab/annotators/civic_gene/test/input
+2023/06/07 12:02:50 cravat.converter     input format: cravat
+2023/06/07 12:02:50 cravat.converter     error lines: 0
+2023/06/07 12:02:50 cravat.converter     finished: Wed Jun  7 12:02:50 2023
+2023/06/07 12:02:50 cravat.converter     num input lines: 3
+2023/06/07 12:02:50 cravat.converter     runtime: 0.001
+2023/06/07 12:02:50 cravat               num_workers: 15
+2023/06/07 12:02:50 cravat               input line chunksize=1 total number of input lines=3 number of chunks=4
+2023/06/07 12:02:50 cravat.mapper        input file: /home/ska/source/open-cravat-modules-karchinlab/annotators/civic_gene/test/input.crv
+2023/06/07 12:02:50 cravat.mapper        input file: /home/ska/source/open-cravat-modules-karchinlab/annotators/civic_gene/test/input.crv
+2023/06/07 12:02:50 cravat.mapper        input file: /home/ska/source/open-cravat-modules-karchinlab/annotators/civic_gene/test/input.crv
+2023/06/07 12:02:50 cravat.mapper        input file: /home/ska/source/open-cravat-modules-karchinlab/annotators/civic_gene/test/input.crv
+2023/06/07 12:02:51 cravat.mapper        mapper database: /home/ska/source/open-cravat-modules-karchinlab/mappers/hg38/data/gene_33_10000.sqlite
+2023/06/07 12:02:51 cravat.mapper        mapper database: /home/ska/source/open-cravat-modules-karchinlab/mappers/hg38/data/gene_33_10000.sqlite
+2023/06/07 12:02:51 cravat.mapper        mapper database: /home/ska/source/open-cravat-modules-karchinlab/mappers/hg38/data/gene_33_10000.sqlite
+2023/06/07 12:02:51 cravat.mapper        mapper database: /home/ska/source/open-cravat-modules-karchinlab/mappers/hg38/data/gene_33_10000.sqlite
+2023/06/07 12:02:52 cravat.mapper        started: Wed Jun  7 12:02:52 2023 | 0
+2023/06/07 12:02:52 cravat.mapper        finished: Wed Jun  7 12:02:52 2023 | 0
+2023/06/07 12:02:52 cravat.mapper        runtime:  0.002
+2023/06/07 12:02:52 cravat.mapper        started: Wed Jun  7 12:02:52 2023 | 1570
+2023/06/07 12:02:52 cravat.mapper        finished: Wed Jun  7 12:02:52 2023 | 1570
+2023/06/07 12:02:52 cravat.mapper        runtime:  0.001
+2023/06/07 12:02:52 cravat.mapper        started: Wed Jun  7 12:02:52 2023 | 1548
+2023/06/07 12:02:52 cravat.mapper        started: Wed Jun  7 12:02:52 2023 | 1526
+2023/06/07 12:02:52 cravat.mapper        finished: Wed Jun  7 12:02:52 2023 | 1548
+2023/06/07 12:02:52 cravat.mapper        runtime:  0.002
+2023/06/07 12:02:52 cravat.mapper        finished: Wed Jun  7 12:02:52 2023 | 1526
+2023/06/07 12:02:52 cravat.mapper        runtime:  0.002
+2023/06/07 12:02:52 cravat               num_workers: 15
+2023/06/07 12:02:52 cravat.civic_gene    started: Wed Jun  7 12:02:52 2023
+2023/06/07 12:02:52 cravat.civic_gene    finished: Wed Jun  7 12:02:52 2023
+2023/06/07 12:02:52 cravat.civic_gene    runtime: 0.002s
+2023/06/07 12:02:52 cravat.civic_gene    started: Wed Jun  7 12:02:52 2023
+2023/06/07 12:02:52 cravat.civic_gene    finished: Wed Jun  7 12:02:52 2023
+2023/06/07 12:02:52 cravat.civic_gene    runtime: 0.001s
+2023/06/07 12:02:53 cravat.aggregator    level: variant
+2023/06/07 12:02:53 cravat.aggregator    input directory: /home/ska/source/open-cravat-modules-karchinlab/annotators/civic_gene/test
+2023/06/07 12:02:53 cravat.aggregator    started: Wed Jun  7 12:02:53 2023
+2023/06/07 12:02:53 cravat.aggregator    finished: Wed Jun  7 12:02:53 2023
+2023/06/07 12:02:53 cravat.aggregator    runtime: 0.004
+2023/06/07 12:02:53 cravat.aggregator    level: gene
+2023/06/07 12:02:53 cravat.aggregator    input directory: /home/ska/source/open-cravat-modules-karchinlab/annotators/civic_gene/test
+2023/06/07 12:02:53 cravat.aggregator    started: Wed Jun  7 12:02:53 2023
+2023/06/07 12:02:53 cravat.aggregator    finished: Wed Jun  7 12:02:53 2023
+2023/06/07 12:02:53 cravat.aggregator    runtime: 0.001
+2023/06/07 12:02:53 cravat.aggregator    level: sample
+2023/06/07 12:02:53 cravat.aggregator    input directory: /home/ska/source/open-cravat-modules-karchinlab/annotators/civic_gene/test
+2023/06/07 12:02:53 cravat.aggregator    started: Wed Jun  7 12:02:53 2023
+2023/06/07 12:02:53 cravat.aggregator    finished: Wed Jun  7 12:02:53 2023
+2023/06/07 12:02:53 cravat.aggregator    runtime: 0.001
+2023/06/07 12:02:53 cravat.aggregator    level: mapping
+2023/06/07 12:02:53 cravat.aggregator    input directory: /home/ska/source/open-cravat-modules-karchinlab/annotators/civic_gene/test
+2023/06/07 12:02:53 cravat.aggregator    started: Wed Jun  7 12:02:53 2023
+2023/06/07 12:02:53 cravat.aggregator    finished: Wed Jun  7 12:02:53 2023
+2023/06/07 12:02:53 cravat.aggregator    runtime: 0.001
+2023/06/07 12:02:53 cravat.tagsampler    started: Wed Jun  7 12:02:53 2023
+2023/06/07 12:02:53 cravat.tagsampler    finished: Wed Jun  7 12:02:53 2023
+2023/06/07 12:02:53 cravat.tagsampler    runtime: 0.002
+2023/06/07 12:02:53 cravat.textreporter  started: Wed Jun  7 12:02:53 2023
+2023/06/07 12:02:53 cravat.mapper        input file: /home/ska/source/open-cravat-modules-karchinlab/annotators/civic_gene/test/__dummy__
+2023/06/07 12:02:53 cravat.textreporter  finished: Wed Jun  7 12:02:53 2023
+2023/06/07 12:02:53 cravat.textreporter  runtime: 0.031
+2023/06/07 12:02:53 cravat               no such column: base__note
+Traceback (most recent call last):
+  File "/home/ska/source/open-cravat/cravat/cravat_class.py", line 1670, in run_reporter
+    response_t = await reporter.run()
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ska/source/open-cravat/cravat/cravat_report.py", line 560, in run
+    await self.run_level(level)
+  File "/home/ska/source/open-cravat/cravat/cravat_report.py", line 371, in run_level
+    gene_summary_data = await o.get_gene_summary_data(self.cf)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ska/source/open-cravat/cravat/base_mapper.py", line 394, in get_gene_summary_data
+    rows = await cf.exec_db(cf.get_variant_data_for_cols, cols)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ska/source/open-cravat/cravat/cravat_filter.py", line 243, in exec_db
+    ret = await func(*args, conn=conn, cursor=cursor, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ska/source/open-cravat/cravat/cravat_filter.py", line 992, in get_variant_data_for_cols
+    await cursor.execute(q)
+  File "/home/ska/.local/lib/python3.11/site-packages/aiosqlite/cursor.py", line 48, in execute
+    await self._execute(self._cursor.execute, sql, parameters)
+  File "/home/ska/.local/lib/python3.11/site-packages/aiosqlite/cursor.py", line 40, in _execute
+    return await self._conn._execute(fn, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ska/.local/lib/python3.11/site-packages/aiosqlite/core.py", line 133, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 293, in __await__
+    yield self  # This tells Task to wait for completion.
+    ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 344, in __wakeup
+    future.result()
+  File "/usr/lib/python3.11/asyncio/futures.py", line 209, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/home/ska/.local/lib/python3.11/site-packages/aiosqlite/core.py", line 106, in run
+    result = function()
+             ^^^^^^^^^^
+sqlite3.OperationalError: no such column: base__note
+2023/06/07 12:02:53 cravat               finished with an exception: Wed Jun  7 12:02:53 2023
+2023/06/07 12:02:53 cravat               runtime: 3.357s

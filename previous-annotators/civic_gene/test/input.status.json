@@ -1,0 +1,32 @@
+{
+  "annotator_version": {
+    "civic_gene": "2023.04.01",
+    "original_input": ""
+  },
+  "annotators": [
+    "civic_gene",
+    "original_input"
+  ],
+  "assembly": "hg38",
+  "db_path": "/home/ska/source/open-cravat-modules-karchinlab/annotators/civic_gene/test/input.sqlite",
+  "id": "test",
+  "job_dir": "/home/ska/source/open-cravat-modules-karchinlab/annotators/civic_gene/test",
+  "note": "",
+  "num_error_input": 0,
+  "num_input_var": 3,
+  "num_unique_var": 3,
+  "open_cravat_version": "2.3.0",
+  "orig_input_fname": [
+    "input"
+  ],
+  "orig_input_path": [
+    "/home/ska/source/open-cravat-modules-karchinlab/annotators/civic_gene/test/input"
+  ],
+  "reports": [
+    "text"
+  ],
+  "run_name": "input",
+  "status": "Error",
+  "submission_time": "2023-06-07T12:02:50.085843",
+  "viewable": false
+}
