@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 3672,
+                    "name": "MTHFR",
+                    "link": "/genes/3672"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 258,
+                    "name": "A222V",
+                    "link": "/variants/258",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "254"
+}

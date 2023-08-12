@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 65,
+                    "name": "BTK",
+                    "link": "/genes/65"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 870,
+                    "name": "T316A",
+                    "link": "/variants/870",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "844"
+}

@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 38,
+                    "name": "PDGFRA",
+                    "link": "/genes/38"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 1540,
+                    "name": "L579M",
+                    "link": "/variants/1540",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "1448"
+}

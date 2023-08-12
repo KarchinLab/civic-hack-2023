@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 5365,
+                    "name": "SMO",
+                    "link": "/genes/5365"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 1570,
+                    "name": "L412F",
+                    "link": "/variants/1570",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "1478"
+}

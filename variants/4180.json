@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 5210,
+                    "name": "SRSF2",
+                    "link": "/genes/5210"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 4304,
+                    "name": "P95H",
+                    "link": "/variants/4304",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "4180"
+}

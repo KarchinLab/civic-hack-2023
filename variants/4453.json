@@ -1,0 +1,39 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 5,
+                    "name": "BRAF",
+                    "link": "/genes/5"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 12,
+                    "name": "V600E",
+                    "link": "/variants/12",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "OR"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 5,
+                    "name": "BRAF",
+                    "link": "/genes/5"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 618,
+                    "name": "KIAA1549::BRAF",
+                    "link": "/variants/618",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "4453"
+}

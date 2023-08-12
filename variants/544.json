@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 9722,
+                    "name": "PPP1R15A",
+                    "link": "/genes/9722"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 548,
+                    "name": "RS557806",
+                    "link": "/variants/548",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "544"
+}

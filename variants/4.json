@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 2,
+                    "name": "AKT1",
+                    "link": "/genes/2"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 4,
+                    "name": "E17K",
+                    "link": "/variants/4",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "4"
+}

@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 3,
+                    "name": "ARAF",
+                    "link": "/genes/3"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 825,
+                    "name": "S490T",
+                    "link": "/variants/825",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "803"
+}

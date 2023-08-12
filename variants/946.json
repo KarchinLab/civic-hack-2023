@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 29,
+                    "name": "KIT",
+                    "link": "/genes/29"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 972,
+                    "name": "V560G",
+                    "link": "/variants/972",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "946"
+}

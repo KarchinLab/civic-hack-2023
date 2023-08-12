@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 29,
+                    "name": "KIT",
+                    "link": "/genes/29"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 72,
+                    "name": "L576P",
+                    "link": "/variants/72",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "72"
+}

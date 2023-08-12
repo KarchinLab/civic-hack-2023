@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 1239,
+                    "name": "CSF3R",
+                    "link": "/genes/1239"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 2387,
+                    "name": "T618I",
+                    "link": "/variants/2387",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "2260"
+}

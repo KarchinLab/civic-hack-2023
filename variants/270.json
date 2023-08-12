@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 2747,
+                    "name": "HRAS",
+                    "link": "/genes/2747"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 274,
+                    "name": "G13D",
+                    "link": "/variants/274",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "270"
+}

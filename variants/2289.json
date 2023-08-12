@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 2537,
+                    "name": "H3-3A",
+                    "link": "/genes/2537"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 2416,
+                    "name": "K28M",
+                    "link": "/variants/2416",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "2289"
+}

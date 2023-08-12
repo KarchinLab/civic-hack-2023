@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 8351,
+                    "name": "HOXB13",
+                    "link": "/genes/8351"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 772,
+                    "name": "G84E",
+                    "link": "/variants/772",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "753"
+}

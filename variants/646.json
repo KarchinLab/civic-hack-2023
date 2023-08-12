@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 761,
+                    "name": "CASP8",
+                    "link": "/genes/761"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 650,
+                    "name": "D302H",
+                    "link": "/variants/650",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "646"
+}

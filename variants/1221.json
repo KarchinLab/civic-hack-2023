@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 7,
+                    "name": "BRCA2",
+                    "link": "/genes/7"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 1247,
+                    "name": "M1R",
+                    "link": "/variants/1247",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "1221"
+}

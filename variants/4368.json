@@ -1,0 +1,39 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 2073,
+                    "name": "MTOR",
+                    "link": "/genes/2073"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 572,
+                    "name": "E2014K",
+                    "link": "/variants/572",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "AND"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 2073,
+                    "name": "MTOR",
+                    "link": "/genes/2073"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 4427,
+                    "name": "E2419K",
+                    "link": "/variants/4427",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "4368"
+}

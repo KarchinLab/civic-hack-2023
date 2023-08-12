@@ -1,0 +1,68 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "NOT"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 30,
+                    "name": "KRAS",
+                    "link": "/genes/30"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 336,
+                    "name": "Mutation",
+                    "link": "/variants/336",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "AND"
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "("
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 5,
+                    "name": "BRAF",
+                    "link": "/genes/5"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 12,
+                    "name": "V600E",
+                    "link": "/variants/12",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "OR"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 5,
+                    "name": "BRAF",
+                    "link": "/genes/5"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 611,
+                    "name": "D594G",
+                    "link": "/variants/611",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": ")"
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "4213"
+}

@@ -1,0 +1,107 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 5,
+                    "name": "BRAF",
+                    "link": "/genes/5"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 12,
+                    "name": "V600E",
+                    "link": "/variants/12",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "AND"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 14,
+                    "name": "CDKN2A",
+                    "link": "/genes/14"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 2654,
+                    "name": "Deletion",
+                    "link": "/variants/2654",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "AND"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 916,
+                    "name": "CDKN2B",
+                    "link": "/genes/916"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 4314,
+                    "name": "Deletion",
+                    "link": "/variants/4314",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "AND"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 55,
+                    "name": "TET2",
+                    "link": "/genes/55"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 4476,
+                    "name": "E796K",
+                    "link": "/variants/4476",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "AND"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 550,
+                    "name": "BAX",
+                    "link": "/genes/550"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 4477,
+                    "name": "L76R",
+                    "link": "/variants/4477",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "AND"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 6572,
+                    "name": "AXIN2",
+                    "link": "/genes/6572"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 4478,
+                    "name": "P455K",
+                    "link": "/variants/4478",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "4452"
+}

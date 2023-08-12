@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 5365,
+                    "name": "SMO",
+                    "link": "/genes/5365"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 299,
+                    "name": "D473H",
+                    "link": "/variants/299",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "295"
+}

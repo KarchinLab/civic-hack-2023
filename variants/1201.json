@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 7936,
+                    "name": "AKT3",
+                    "link": "/genes/7936"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 1227,
+                    "name": "E17K",
+                    "link": "/variants/1227",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "1201"
+}

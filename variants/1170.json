@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 5,
+                    "name": "BRAF",
+                    "link": "/genes/5"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 1196,
+                    "name": "G466A",
+                    "link": "/variants/1196",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "1170"
+}

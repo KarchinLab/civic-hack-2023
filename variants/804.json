@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 2319,
+                    "name": "GNAS",
+                    "link": "/genes/2319"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 826,
+                    "name": "R201C",
+                    "link": "/variants/826",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "804"
+}

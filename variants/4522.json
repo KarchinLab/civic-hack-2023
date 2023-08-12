@@ -1,0 +1,39 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 37,
+                    "name": "PIK3CA",
+                    "link": "/genes/37"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 104,
+                    "name": "E545K",
+                    "link": "/variants/104",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "AND"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 52,
+                    "name": "MET",
+                    "link": "/genes/52"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 324,
+                    "name": "Exon 14 Skipping Mutation",
+                    "link": "/variants/324",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "4522"
+}

@@ -1,0 +1,56 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 1,
+                    "name": "ALK",
+                    "link": "/genes/1"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 308,
+                    "name": "G1269A",
+                    "link": "/variants/308",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "AND"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 1,
+                    "name": "ALK",
+                    "link": "/genes/1"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 3204,
+                    "name": "EML4::ALK e6-e19",
+                    "link": "/variants/3204",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "AND"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 1,
+                    "name": "ALK",
+                    "link": "/genes/1"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 4301,
+                    "name": "Amplification",
+                    "link": "/variants/4301",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "4348"
+}

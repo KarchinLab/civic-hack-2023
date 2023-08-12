@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 21,
+                    "name": "ESR1",
+                    "link": "/genes/21"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 46,
+                    "name": "L536Q",
+                    "link": "/variants/46",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "46"
+}

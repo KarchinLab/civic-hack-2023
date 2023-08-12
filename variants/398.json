@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 1463,
+                    "name": "NQO1",
+                    "link": "/genes/1463"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 402,
+                    "name": "P187S",
+                    "link": "/variants/402",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "398"
+}

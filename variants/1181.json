@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 30,
+                    "name": "KRAS",
+                    "link": "/genes/30"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 1207,
+                    "name": "R164Q",
+                    "link": "/variants/1207",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "1181"
+}

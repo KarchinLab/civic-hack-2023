@@ -1,0 +1,39 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 19,
+                    "name": "EGFR",
+                    "link": "/genes/19"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 33,
+                    "name": "L858R",
+                    "link": "/variants/33",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "AND"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 52,
+                    "name": "MET",
+                    "link": "/genes/52"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 270,
+                    "name": "Amplification",
+                    "link": "/variants/270",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "4541"
+}

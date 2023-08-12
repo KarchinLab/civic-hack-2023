@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 5939,
+                    "name": "TSPYL1",
+                    "link": "/genes/5939"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 2180,
+                    "name": "P62S",
+                    "link": "/variants/2180",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "2056"
+}

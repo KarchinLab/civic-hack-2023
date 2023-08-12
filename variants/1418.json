@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 6559,
+                    "name": "ARID1A",
+                    "link": "/genes/6559"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 1510,
+                    "name": "Q456*",
+                    "link": "/variants/1510",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "1418"
+}

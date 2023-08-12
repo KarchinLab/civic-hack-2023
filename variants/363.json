@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 4753,
+                    "name": "RAC1",
+                    "link": "/genes/4753"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 367,
+                    "name": "P29S",
+                    "link": "/variants/367",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "363"
+}

@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 3628,
+                    "name": "MSH2",
+                    "link": "/genes/3628"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 727,
+                    "name": "R383*",
+                    "link": "/variants/727",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "708"
+}

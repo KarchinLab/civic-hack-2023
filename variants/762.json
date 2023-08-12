@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 1733,
+                    "name": "ERBB3",
+                    "link": "/genes/1733"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 781,
+                    "name": "V855A",
+                    "link": "/variants/781",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "762"
+}

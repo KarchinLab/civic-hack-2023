@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 45,
+                    "name": "TP53",
+                    "link": "/genes/45"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 2711,
+                    "name": "R213*",
+                    "link": "/variants/2711",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "2580"
+}

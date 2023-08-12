@@ -1,0 +1,56 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 1,
+                    "name": "ALK",
+                    "link": "/genes/1"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 5,
+                    "name": "EML4::ALK",
+                    "link": "/variants/5",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "AND"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 1,
+                    "name": "ALK",
+                    "link": "/genes/1"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 588,
+                    "name": "I1171N",
+                    "link": "/variants/588",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "AND"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 1,
+                    "name": "ALK",
+                    "link": "/genes/1"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 4324,
+                    "name": "L1196M",
+                    "link": "/variants/4324",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "4328"
+}

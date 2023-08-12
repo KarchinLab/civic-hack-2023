@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 4765,
+                    "name": "RAD51D",
+                    "link": "/genes/4765"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 471,
+                    "name": "R186*",
+                    "link": "/variants/471",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "467"
+}

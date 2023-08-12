@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 11932,
+                    "name": "DDX41",
+                    "link": "/genes/11932"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 814,
+                    "name": "R164W",
+                    "link": "/variants/814",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "792"
+}

@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 43,
+                    "name": "RUNX1",
+                    "link": "/genes/43"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 803,
+                    "name": "Y260*",
+                    "link": "/variants/803",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "781"
+}

@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 4532,
+                    "name": "MAPK1",
+                    "link": "/genes/4532"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 1552,
+                    "name": "E278E",
+                    "link": "/variants/1552",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "1460"
+}

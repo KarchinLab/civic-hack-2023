@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 14303,
+                    "name": "CRLF2",
+                    "link": "/genes/14303"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 2285,
+                    "name": "F232C",
+                    "link": "/variants/2285",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "2161"
+}

@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 52,
+                    "name": "MET",
+                    "link": "/genes/52"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 1651,
+                    "name": "D1010N",
+                    "link": "/variants/1651",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "1559"
+}

@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 1411,
+                    "name": "GADD45A",
+                    "link": "/genes/1411"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 705,
+                    "name": "rs681673",
+                    "link": "/variants/705",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "686"
+}

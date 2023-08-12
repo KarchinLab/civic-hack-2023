@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 58,
+                    "name": "VHL",
+                    "link": "/genes/58"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 2533,
+                    "name": "D126N (c.376G>A)",
+                    "link": "/variants/2533",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "2406"
+}

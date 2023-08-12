@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 5534,
+                    "name": "STK11",
+                    "link": "/genes/5534"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 2063,
+                    "name": "F354L",
+                    "link": "/variants/2063",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "1939"
+}

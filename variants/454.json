@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 1843,
+                    "name": "FCGR2B",
+                    "link": "/genes/1843"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 458,
+                    "name": "I232T",
+                    "link": "/variants/458",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "454"
+}

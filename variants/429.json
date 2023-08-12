@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 2596,
+                    "name": "HIF1A",
+                    "link": "/genes/2596"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 433,
+                    "name": "3' UTR Polymorphism",
+                    "link": "/variants/433",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "429"
+}

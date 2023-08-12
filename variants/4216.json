@@ -1,0 +1,39 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 37,
+                    "name": "PIK3CA",
+                    "link": "/genes/37"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 103,
+                    "name": "E542K",
+                    "link": "/variants/103",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "AND"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 41,
+                    "name": "PTEN",
+                    "link": "/genes/41"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 214,
+                    "name": "Loss",
+                    "link": "/variants/214",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "4216"
+}

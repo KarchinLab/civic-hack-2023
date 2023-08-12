@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 2317,
+                    "name": "GNAQ",
+                    "link": "/genes/2317"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 604,
+                    "name": "Q209P",
+                    "link": "/variants/604",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "600"
+}

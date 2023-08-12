@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 79,
+                    "name": "TERT",
+                    "link": "/genes/79"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 248,
+                    "name": "C228T",
+                    "link": "/variants/248",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "244"
+}

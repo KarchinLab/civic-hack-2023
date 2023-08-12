@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 26,
+                    "name": "IDH1",
+                    "link": "/genes/26"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 927,
+                    "name": "R132G",
+                    "link": "/variants/927",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "901"
+}

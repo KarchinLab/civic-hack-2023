@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 3985,
+                    "name": "NTRK3",
+                    "link": "/genes/3985"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 805,
+                    "name": "ETV6::NTRK3 G623R",
+                    "link": "/variants/805",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "783"
+}

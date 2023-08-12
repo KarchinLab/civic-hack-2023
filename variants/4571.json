@@ -1,0 +1,39 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 30,
+                    "name": "KRAS",
+                    "link": "/genes/30"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 79,
+                    "name": "G12D",
+                    "link": "/variants/79",
+                    "deprecated": false
+                },
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "AND"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 52,
+                    "name": "MET",
+                    "link": "/genes/52"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 4538,
+                    "name": "Splice Site (c.2888_3028del)",
+                    "link": "/variants/4538",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "4571"
+}

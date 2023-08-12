@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 4,
+                    "name": "ABL1",
+                    "link": "/genes/4"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 1615,
+                    "name": "I418S",
+                    "link": "/variants/1615",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "1523"
+}

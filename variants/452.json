@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 1842,
+                    "name": "FCGR2A",
+                    "link": "/genes/1842"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 456,
+                    "name": "H167R",
+                    "link": "/variants/456",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "452"
+}

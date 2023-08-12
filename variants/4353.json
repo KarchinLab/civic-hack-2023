@@ -1,0 +1,26 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "MolecularProfileTextSegment",
+                    "text": "NOT"
+                },
+                {
+                    "__typename": "Gene",
+                    "id": 29,
+                    "name": "KIT",
+                    "link": "/genes/29"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 65,
+                    "name": "D816V",
+                    "link": "/variants/65",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "4353"
+}

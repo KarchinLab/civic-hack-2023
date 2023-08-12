@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 1950,
+                    "name": "FNTB",
+                    "link": "/genes/1950"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 332,
+                    "name": "RS11623866",
+                    "link": "/variants/332",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "328"
+}

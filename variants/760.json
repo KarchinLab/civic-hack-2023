@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 5971,
+                    "name": "TYMS",
+                    "link": "/genes/5971"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 779,
+                    "name": "RS34743033",
+                    "link": "/variants/779",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "760"
+}

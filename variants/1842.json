@@ -1,0 +1,22 @@
+{
+    "data": {
+        "molecularProfile": {
+            "parsedName": [
+                {
+                    "__typename": "Gene",
+                    "id": 58,
+                    "name": "VHL",
+                    "link": "/genes/58"
+                },
+                {
+                    "__typename": "Variant",
+                    "id": 1966,
+                    "name": "W88S (c.263G>C)",
+                    "link": "/variants/1966",
+                    "deprecated": false
+                }
+            ]
+        }
+    },
+    "molecular_profile_id": "1842"
+}
